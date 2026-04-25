@@ -7,15 +7,12 @@ UX/UI Designer · Madrid
 <br>
 
 <p align="center">
-I design experiences that work —<br>
-across users, languages, and contexts.
+I design digital experiences that feel clear, intuitive, and ready for the real world.
 </p>
 
-<br>
-
 <p align="center">
-Focused on usability, accessibility, and product quality.<br>
-Bridging design and QA to deliver clear, reliable interfaces.
+From usability to localization, I focus on what actually works —<br>
+across users, languages, and contexts.
 </p>
 
 <br><br>
@@ -35,12 +32,12 @@ Bridging design and QA to deliver clear, reliable interfaces.
 ### Selected Experience
 
 UX/UI Designer — Freelance  
-Designed user-centered interfaces through research, testing, and prototyping.
+End-to-end design process: research, usability testing, prototyping, and UI systems.
 
 <br>
 
 Localization QA Tester — Universally Speaking  
-Ensuring clarity, consistency, and usability across global digital products.
+Improving product quality through testing, validation, and cultural accuracy.
 
 <br><br>
 
@@ -48,11 +45,11 @@ Ensuring clarity, consistency, and usability across global digital products.
 
 <br>
 
-### Impact
+### Selected Impact
 
-Reduced navigation time by 30% by improving information architecture and user flows.
+Reduced navigation time by 30% by redesigning information architecture and user flows.
 
-Improved product quality through structured QA, regression testing, and attention to detail.
+Improved clarity and consistency across localized content through QA and usability-focused validation.
 
 <br><br>
 
